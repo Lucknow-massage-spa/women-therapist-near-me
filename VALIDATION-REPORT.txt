@@ -1,0 +1,13 @@
+INLINE CSS/JS FOLDERED BUILD VALIDATION
+========================================
+Total HTML files: 687
+Pages with embedded CSS: 687
+Pages with embedded JavaScript: 687
+External style.css references: 0
+External site.js references: 0
+Broken/unsafe internal references: 0
+Canonical mismatches: 0
+Unique canonical URLs: 687
+Unique page titles: 687
+
+Result: PASS

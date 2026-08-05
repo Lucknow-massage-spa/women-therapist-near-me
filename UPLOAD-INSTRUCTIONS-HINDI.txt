@@ -1,0 +1,4 @@
+ZIP ko extract karein. Andar ki sabhi files aur folders ko GitHub repository root me upload karein.
+Har HTML page ke andar CSS aur JavaScript embedded hai.
+Page type ke hisab se folders: services, areas, area-services, blog, faq, guides, contact, legal.
+Images/icons ke liye assets/images folder ko delete na karein.

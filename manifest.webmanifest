@@ -1,0 +1,16 @@
+{
+  "name": "Women Therapist Near Me Lucknow",
+  "short_name": "Women Therapist",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#ea5a9a",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

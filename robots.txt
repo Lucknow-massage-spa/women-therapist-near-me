@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucknow-massage-spa.github.io/women-therapist-near-me/sitemap.xml
